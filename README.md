@@ -23,7 +23,7 @@ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 box-shadow: inset 5em 1em gold;
 
 
-https://www.cssmatic.com/box-shadow
+👉 https://www.cssmatic.com/box-shadow
 
 ### Animation Genrator
 
@@ -35,18 +35,23 @@ http://ianlunn.github.io/Hover/
 https://animista.net/play/basic
 
 ### Bezier
-https://easings.net/#
+👉 https://easings.net/#
 
 ### Blob Generator
 
 ### Gradient Mesh
+
+### Icons
+
+👉 boxicons.com
+👉 remixicons.com
 
 
 https://createapp.dev/
 
 
 ### DockerFile Generator
-
+👉 
 
 ### PWA Icons & Manifest Generator
 
@@ -55,7 +60,8 @@ https://createapp.dev/
 
 
 ### Map styling
-- snazzymaps.com
+👉 snazzymaps.com
+
 
 # ReadMe MD editor
 
