@@ -25,7 +25,7 @@ box-shadow: inset 5em 1em gold;
 
 https://www.cssmatic.com/box-shadow
 
-# Animation Genrator
+### Animation Genrator
 
 https://animate.style/
 
@@ -34,24 +34,27 @@ http://ianlunn.github.io/Hover/
 
 https://animista.net/play/basic
 
-Bezier
+### Bezier
 https://easings.net/#
 
+### Blob Generator
+
+### Gradient Mesh
 
 
 https://createapp.dev/
 
 
-# DockerFile Generator
+### DockerFile Generator
 
 
-# PWA Icons & Manifest Generator
+### PWA Icons & Manifest Generator
 
-# JSON to Classes generator
+### JSON to Classes generator
 
 
 
-# Map styling
+### Map styling
 - snazzymaps.com
 
 # ReadMe MD editor
