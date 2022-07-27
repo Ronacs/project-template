@@ -43,11 +43,11 @@ https://animista.net/play/basic
 
 ### Icons
 
-👉 boxicons.com
-👉 remixicons.com
+👉 https://boxicons.com
+👉 https://remixicons.com
 
-
-https://createapp.dev/
+### Babel Webpack Generator
+👉 https://createapp.dev/
 
 
 ### DockerFile Generator
@@ -60,7 +60,7 @@ https://createapp.dev/
 
 
 ### Map styling
-👉 snazzymaps.com
+👉 https://snazzymaps.com
 
 
 # ReadMe MD editor
