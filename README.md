@@ -27,7 +27,7 @@ box-shadow: inset 5em 1em gold;
 
 ### Animation Genrator
 
-![image](https://user-images.githubusercontent.com/16950427/181480585-a9a0f52c-be62-4b28-a704-aee0b0c68d32.png)
+![image](https://user-images.githubusercontent.com/16950427/181485690-640b37d9-6de9-4d6b-ac5a-53b494d28141.png)
 
 https://animate.style/
 
@@ -68,6 +68,8 @@ List of animations
 
 
 ### Babel Webpack Generator
+![image](https://user-images.githubusercontent.com/16950427/181485233-011d2595-ad7e-4d6e-b42e-be1b729554f0.png)
+
 👉 https://createapp.dev/
 
 
