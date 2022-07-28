@@ -70,6 +70,17 @@ List of animations
 
 👉 https://bennettfeely.com/clippy/
 
+
+Animated CSS Background Generator
+
+### CSS Underline Generator 
+
+### Color Palettes Generator 
+
+### CSS Animation Generator  
+
+### CSS Gradient Buttons 
+
 ### CSS Mask 
 
 ![image](https://user-images.githubusercontent.com/16950427/181646237-e7cbda4f-e16c-42ab-a3da-1337b87ac84c.png)
@@ -157,7 +168,11 @@ List of animations
 
 👉 https://glidejs.com/docs/api/
 
+### SVG Animate
 
+![image](https://user-images.githubusercontent.com/16950427/181655265-524e3a78-b1a0-464b-88d8-25ddd96669f1.png)
+
+👉 https://www.svgator.com/
 
 # ReadMe MD editor
 
