@@ -100,8 +100,13 @@ List of animations
 👉 https://snazzymaps.com/editor
 
 ### JS Libraries
-👉 scrollreveal
-👉 gsap
+![image](https://user-images.githubusercontent.com/16950427/181642718-bed51956-2f63-40fe-a339-0c0f7ec8bab8.png)
+
+👉 https://scrollrevealjs.org/api/reveal.html
+
+![image](https://user-images.githubusercontent.com/16950427/181643234-65f71c7a-9eec-4462-8f3b-d8554111bb9a.png)
+
+👉 https://greensock.com/docs/v3/Installation
 
 
 # ReadMe MD editor
