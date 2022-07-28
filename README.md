@@ -64,6 +64,19 @@ List of animations
 
 👉 https://bennettfeely.com/clippy/
 
+### CSS Mask 
+
+![image](https://user-images.githubusercontent.com/16950427/181646237-e7cbda4f-e16c-42ab-a3da-1337b87ac84c.png)
+
+
+### Neumorphism
+
+![image](https://user-images.githubusercontent.com/16950427/181646396-f9cf1c7d-1c6f-41ae-aca7-6e355c6084b2.png)
+
+👉 https://neumorphism.io/
+
+👉 https://www.html-code-generator.com/
+
 ### Icons
 
 ![image](https://user-images.githubusercontent.com/16950427/181484327-4edd88a3-e765-4cfb-a81b-b1220cb07316.png)
