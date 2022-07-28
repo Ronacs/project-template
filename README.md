@@ -25,7 +25,7 @@ box-shadow: inset 5em 1em gold;
 
 👉 https://www.cssmatic.com/box-shadow
 
-### Animation Genrator
+### Animation Generator
 
 ![image](https://user-images.githubusercontent.com/16950427/181485690-640b37d9-6de9-4d6b-ac5a-53b494d28141.png)
 
