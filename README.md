@@ -58,6 +58,12 @@ List of animations
 
 👉 https://meshgradient.com/
 
+### Clip Path Generator
+
+![image](https://user-images.githubusercontent.com/16950427/181645652-089886bc-e06b-43c2-830d-8ec98255f8cd.png)
+
+👉 https://bennettfeely.com/clippy/
+
 ### Icons
 
 ![image](https://user-images.githubusercontent.com/16950427/181484327-4edd88a3-e765-4cfb-a81b-b1220cb07316.png)
