@@ -1,7 +1,7 @@
 
 # Project description
 
-Boiler template for creating a new project.
+My boiler template for creating a new project.
 
 # Project template
  Used myStarterFiles
