@@ -58,6 +58,9 @@ List of animations
 
 ### Icons
 
+![image](https://user-images.githubusercontent.com/16950427/181484327-4edd88a3-e765-4cfb-a81b-b1220cb07316.png)
+
+
 👉 https://boxicons.com
 👉 https://remixicons.com
 👉 https://akveo.github.io/eva-icons/
