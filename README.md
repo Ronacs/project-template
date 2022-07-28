@@ -70,6 +70,13 @@ List of animations
 
 👉 https://www.html-code-generator.com/
 
+👉 https://ilyashubin.github.io/FilterBlend/
+
+### CSS Image Blending
+
+![image](https://user-images.githubusercontent.com/16950427/181647027-3450df28-efd0-474a-847f-9d4d201149dd.png)
+
+
 ### Neumorphism
 
 ![image](https://user-images.githubusercontent.com/16950427/181646396-f9cf1c7d-1c6f-41ae-aca7-6e355c6084b2.png)
