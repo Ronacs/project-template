@@ -83,7 +83,10 @@ List of animations
 
 
 ### Map styling
-👉 https://snazzymaps.com
+
+![image](https://user-images.githubusercontent.com/16950427/181486564-350f6c33-62b8-43ad-9f28-1f9c9886aa63.png)
+
+👉 https://snazzymaps.com/editor
 
 
 # ReadMe MD editor
