@@ -78,6 +78,15 @@ List of animations
 
 ### PWA Icons & Manifest Generator
 
+![image](https://user-images.githubusercontent.com/16950427/181487133-77e96d69-0345-4fef-8831-5daa3079e808.png)
+
+👉 https://tomitm.github.io/appmanifest/
+
+![image](https://user-images.githubusercontent.com/16950427/181487276-ddb26b09-5d87-4a3c-9fd5-fab4b8550b90.png)
+
+👉 https://app-manifest.firebaseapp.com/
+
+
 ### JSON to Classes generator
 
 
@@ -87,6 +96,10 @@ List of animations
 ![image](https://user-images.githubusercontent.com/16950427/181486564-350f6c33-62b8-43ad-9f28-1f9c9886aa63.png)
 
 👉 https://snazzymaps.com/editor
+
+### JS Libraries
+👉 scrollreveal
+👉 gsap
 
 
 # ReadMe MD editor
