@@ -42,6 +42,8 @@ List of animations
 👉 https://animista.net/play/basic
 
 ### Bezier
+![image](https://user-images.githubusercontent.com/16950427/181487865-d844f608-6a80-4568-9817-8e308efabcff.png)
+
 👉 https://easings.net/#
 
 ### Blob Generator
