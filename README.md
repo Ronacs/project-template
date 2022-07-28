@@ -45,6 +45,7 @@ https://animista.net/play/basic
 
 👉 https://boxicons.com
 👉 https://remixicons.com
+👉 https://akveo.github.io/eva-icons/
 
 ### Babel Webpack Generator
 👉 https://createapp.dev/
