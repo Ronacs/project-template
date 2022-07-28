@@ -68,6 +68,7 @@ List of animations
 
 ![image](https://user-images.githubusercontent.com/16950427/181646237-e7cbda4f-e16c-42ab-a3da-1337b87ac84c.png)
 
+👉 https://www.html-code-generator.com/
 
 ### Neumorphism
 
@@ -75,7 +76,8 @@ List of animations
 
 👉 https://neumorphism.io/
 
-👉 https://www.html-code-generator.com/
+👉 https://neumorphic.design/
+
 
 ### Icons
 
