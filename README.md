@@ -58,6 +58,12 @@ List of animations
 
 👉 https://meshgradient.com/
 
+### CSS Waves Generator
+
+![image](https://user-images.githubusercontent.com/16950427/181655077-44261003-83b0-45ce-bec2-5e17b8d10729.png)
+
+👉 https://getwaves.io/
+
 ### Clip Path Generator
 
 ![image](https://user-images.githubusercontent.com/16950427/181645652-089886bc-e06b-43c2-830d-8ec98255f8cd.png)
@@ -76,6 +82,17 @@ List of animations
 
 ![image](https://user-images.githubusercontent.com/16950427/181647027-3450df28-efd0-474a-847f-9d4d201149dd.png)
 
+### CSS Grid Visual Layout
+
+![image](https://user-images.githubusercontent.com/16950427/181654806-db1b0225-2650-40ae-9088-a3242cdd44bb.png)
+
+👉 https://grid.layoutit.com/
+
+### CSS Glass 
+
+![image](https://user-images.githubusercontent.com/16950427/181654974-8f1d6a6e-5a9d-48fc-87fd-fd561772368f.png)
+
+👉 https://css.glass/
 
 ### Neumorphism
 
