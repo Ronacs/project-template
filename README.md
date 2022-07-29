@@ -215,7 +215,12 @@ List of animations
 
 👉 https://www.svgator.com/
 
-### 
+### CSS PRRSPECTIVE
+![image](https://user-images.githubusercontent.com/16950427/181667317-b573a3ca-d802-4bdd-a1ce-72213238ba7d.png)
+
+👉 https://3dbookcovergenerator.netlify.app/
+
+### CSS TOOLS
 ![image](https://user-images.githubusercontent.com/16950427/181658265-f9cb22b4-2052-4879-8351-9ee51f683d4a.png)
 
 👉 https://10015.io/tools/css-clip-path-generator
@@ -231,4 +236,14 @@ List of animations
 ![image](https://user-images.githubusercontent.com/16950427/181644192-1ee848f2-7117-4455-977c-cdbbbfd46e5b.png)
 
 👉 https://stackedit.io/app
+
+
+# ReadMe Badge generator
+
+![image](https://user-images.githubusercontent.com/16950427/181667387-1fce6f6b-539a-4df4-9ab6-17a4dee21c35.png)
+
+👉 https://badgen.net/
+
+
+
 
