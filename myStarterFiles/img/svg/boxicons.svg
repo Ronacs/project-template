@@ -1,0 +1,245 @@
+<!-- note: you cannot view the entire sprite on a browswer, on single item 
+    how to use?
+
+    on the html page, <use href=sprite_file#name-of-symbol></use>
+
+    <svg class="user-nav__icon">
+        <use xlink:href="img/sprite.svg#icon-bookmark"></use>
+    </svg>
+-->
+<svg 
+    style="position: absolute; width: 0; height: 0; overflow: hidden;" 
+    version="1.1" xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+    <!-- icon 1 home -->
+        <symbol id="boxi-home" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Home</title>
+
+        </symbol>
+
+    <!-- icon 2 profile -->
+        <symbol id="boxi-profile" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Profile</title>
+
+        </symbol>
+
+    <!-- icon 3 notification -->
+        <symbol id="boxi-notification" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Notification</title>
+
+        </symbol>
+
+    <!-- icon 4 messages -->
+        <symbol id="boxi-messages" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Messages</title>
+
+        </symbol>
+
+    <!-- icon 5 explore -->
+        <symbol id="boxi-explore" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Explore</title>
+
+        </symbol>
+
+    <!-- icon 6 saved  -->
+        <symbol id="boxi-bookmark" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Bookmark</title>
+
+        </symbol>
+
+    <!-- icon 7 logout -->
+        <symbol id="boxi-logout" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Logout</title>
+
+        </symbol>
+
+    <!-- icon 8 chevron-down -->
+        <symbol id="boxi-chevron-down" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Chevron Down</title>
+
+        </symbol>
+
+    <!-- icon 1  -->
+        <symbol id="boxi-left" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Chevron Left</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-right" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Chevron Right</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-right" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Arrow Back</title>
+            <path d="M21 11H6.414l5.293-5.293-1.414-1.414L2.586 12l7.707 7.707 1.414-1.414L6.414 13H21z"/>
+        </symbol>        
+
+
+    <!-- icon 9 search -->
+        <symbol id="boxi-search" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Search</title>
+
+        </symbol>
+
+    <!-- icon 10 menu -->
+        <symbol id="boxi-menu" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Menu</title>
+
+        </symbol>
+
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Sun</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Moon</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-star" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Star</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Education</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Work</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Services</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Skills</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Code</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-layout" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Layout</title>
+
+        </symbol>        
+
+
+    <!-- icon 1  -->
+        <symbol id="boxipen" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Pen</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-call" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Call</title>
+
+        </symbol>        
+
+
+    <!-- icon 1  -->
+        <symbol id="boxi-email" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Email</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-location" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Location</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-facebook" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Facebook</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-insta" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Instagram</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Twitter</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-github" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Github</title>
+
+        </symbol>        
+
+
+    <!-- icon 1  -->
+        <symbol id="boxi-dribble" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Dribble</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-figma" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Figma</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-mouse" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Mouse</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-download" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Download</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-clock" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Clock</title>
+
+        </symbol>        
+
+    <!-- icon 1  -->
+        <symbol id="boxi-like" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Like</title>
+
+        </symbol> 
+
+        <!-- icon 1  -->
+        <symbol id="boxi-heart" viewBox="0 0 24 24" width="24" height="24"  >
+            <title>Heart</title>
+
+        </symbol> 
+
+</defs>
+
+</svg>

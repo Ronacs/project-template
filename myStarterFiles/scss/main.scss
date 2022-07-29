@@ -1,0 +1,97 @@
+/* FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+
+@media screen and (max-width: var(--screen-md) ) {
+    
+}
+
+
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+    font-size: var(--baseFontSize);
+    box-sizing: border-box;
+}
+
+body{
+    font-family: var(--baseFontFamily);
+    color: var(--textPrimaryColor);
+    line-height: var(--lineheight);
+    -webkit-font-smooth: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+/* GRID COLUMN */
+.grid-col2{
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-col3{
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
+/* INPUT TEXT */
+input[type="text"], input[type="text"]{
+    padding: var(--pd-1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

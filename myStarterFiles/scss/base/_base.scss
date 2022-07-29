@@ -1,0 +1,20 @@
+::selection {
+    background-color: $color-primary;
+    color: $color-white;
+}
+
+/* WEB SCROLL BAR */
+::webkit-scrollbar{
+    /*define the width*/
+        width: var(--scrollbarWidth);
+}
+    
+::webkit-scrollbar-track{
+    /*define bg color line track*/
+    background-color: #3a3a3a;
+}
+    
+::webkit-scrollbar-thumb{
+    /*define the color of the thumb*/
+    background-color: #f2f2f2;
+}
