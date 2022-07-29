@@ -174,7 +174,7 @@ Animated CSS Background Generator
 
 👉 https://www.svgator.com/
 
-### SVG Animate
+### Patterns
 ![image](https://user-images.githubusercontent.com/16950427/181656713-015f0ffb-653b-46a6-993f-5a8fe45e62dd.png)
 
 👉 https://haikei.app/generators/
