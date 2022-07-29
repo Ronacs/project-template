@@ -75,15 +75,27 @@ List of animations
 👉 https://bennettfeely.com/clippy/
 
 
-Animated CSS Background Generator
+### Animated CSS Background Generator
+
+![image](https://user-images.githubusercontent.com/16950427/181664169-5fa2e4b2-5971-4699-b319-da72ede3fc7d.png)
+
+👉 https://wweb.dev/resources/animated-css-background-generator/ 
 
 ### CSS Underline Generator 
 
+👉 
+
 ### Color Palettes Generator 
+
+👉 
 
 ### CSS Animation Generator  
 
+👉 
+
 ### CSS Gradient Buttons 
+
+👉 
 
 ### CSS Mask 
 
