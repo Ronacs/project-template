@@ -93,6 +93,8 @@ List of animations
 
 👉 https://hslpicker.com/
 
+👉 https://fffuel.co/cccolor/
+
 ### Color Palettes Generator 
 
 ![image](https://user-images.githubusercontent.com/16950427/181664476-57078d17-0314-4e34-9a01-7e57c8b5e81a.png)
@@ -114,7 +116,6 @@ List of animations
 ### CSS Duotone 
 
 ![image](https://user-images.githubusercontent.com/16950427/181666092-bbcaab44-ae57-4f8f-b78c-4b33fc1eceab.png)
-
 
 👉 https://cssduotone.com/
 
