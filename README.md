@@ -87,7 +87,6 @@ List of animations
 
 👉 https://underline-generator.netlify.app/
 
-👉
 
 ### Color Palettes Generator 
 
@@ -96,8 +95,6 @@ List of animations
 👉 https://mycolor.space/
 
 ### CSS Animation Generator  
-
-
 
 👉 https://angrytools.com/css/animation/
 
@@ -115,6 +112,15 @@ List of animations
 
 
 👉 https://cssduotone.com/
+
+### CSS Animated Hamburger Menu
+
+![image](https://user-images.githubusercontent.com/16950427/181666860-21537833-aece-4370-8d30-f9a6233bdfb6.png)
+
+👉 https://jonsuh.com/hamburgers/
+
+👉 https://www.sliderrevolution.com/resources/css-hamburger-menu/
+
 
 ### CSS Mask 
 
