@@ -83,19 +83,38 @@ List of animations
 
 ### CSS Underline Generator 
 
-👉 
+![image](https://user-images.githubusercontent.com/16950427/181665352-654efc96-604e-4506-bbeb-37a93e0acd2e.png)
+
+👉 https://underline-generator.netlify.app/
+
+👉
 
 ### Color Palettes Generator 
 
-👉 
+![image](https://user-images.githubusercontent.com/16950427/181664476-57078d17-0314-4e34-9a01-7e57c8b5e81a.png)
+
+👉 https://mycolor.space/
 
 ### CSS Animation Generator  
 
-👉 
+
+
+👉 https://angrytools.com/css/animation/
+
+👉 https://waitanimate.wstone.uk/
 
 ### CSS Gradient Buttons 
 
-👉 
+![image](https://user-images.githubusercontent.com/16950427/181665125-53e6f538-2a2b-46ee-a176-66c0a9dfebb0.png)
+
+👉 https://gradientbuttons.colorion.co/
+
+### CSS Duotone 
+
+![image](https://user-images.githubusercontent.com/16950427/181666092-bbcaab44-ae57-4f8f-b78c-4b33fc1eceab.png)
+
+
+👉 https://cssduotone.com/
 
 ### CSS Mask 
 
