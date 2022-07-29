@@ -51,6 +51,10 @@ List of animations
 
 👉 https://www.blobmaker.app/
 
+![image](https://user-images.githubusercontent.com/16950427/181657437-09595434-25d3-4e38-9dec-7293bae4d1c1.png)
+
+ 👉 https://shuffle.dev/tools/blob-generator
+
 ### Gradient Mesh
 ![image](https://user-images.githubusercontent.com/16950427/181478841-52734d0a-ef57-4c8c-b8c7-48e786c3ff41.png)
 
