@@ -244,6 +244,7 @@ List of animations
 
 👉 https://badgen.net/
 
+### CSS RIBBON
 
-
+👉 https://www.generateit.net/css-ribbon-generator/
 
