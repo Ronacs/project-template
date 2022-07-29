@@ -88,6 +88,11 @@ List of animations
 👉 https://underline-generator.netlify.app/
 
 
+### HSLA Color Generator 
+![image](https://user-images.githubusercontent.com/16950427/181682769-b9bb8188-6883-40e2-9057-44c3a971b4f9.png)
+
+👉 https://hslpicker.com/
+
 ### Color Palettes Generator 
 
 ![image](https://user-images.githubusercontent.com/16950427/181664476-57078d17-0314-4e34-9a01-7e57c8b5e81a.png)
