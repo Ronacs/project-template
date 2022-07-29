@@ -174,6 +174,12 @@ Animated CSS Background Generator
 
 👉 https://www.svgator.com/
 
+### SVG Animate
+![image](https://user-images.githubusercontent.com/16950427/181656713-015f0ffb-653b-46a6-993f-5a8fe45e62dd.png)
+
+👉 https://haikei.app/generators/
+
+
 # ReadMe MD editor
 
 ![image](https://user-images.githubusercontent.com/16950427/181644192-1ee848f2-7117-4455-977c-cdbbbfd46e5b.png)
