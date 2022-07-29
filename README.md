@@ -178,6 +178,11 @@ Animated CSS Background Generator
 
 👉 https://www.svgator.com/
 
+### 
+![image](https://user-images.githubusercontent.com/16950427/181658265-f9cb22b4-2052-4879-8351-9ee51f683d4a.png)
+
+👉 https://10015.io/tools/css-clip-path-generator
+
 ### Patterns
 ![image](https://user-images.githubusercontent.com/16950427/181656713-015f0ffb-653b-46a6-993f-5a8fe45e62dd.png)
 
